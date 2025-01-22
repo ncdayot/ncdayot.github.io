@@ -1,0 +1,22 @@
+.box {
+    height: 100px;
+}
+
+.box-height {
+    height: 50px;
+}
+.box1 {
+    background-color: pink;
+}
+.box2 {
+    background-color: rgb(51, 151, 168);
+}
+.box3 {
+    background-color: rgb(120, 169, 241);
+}
+.box4 {
+    background-color: rgb(216, 153, 202);              
+}
+.box5 {
+    background-color: rgb(76, 172, 76);
+}
